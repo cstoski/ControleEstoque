@@ -1,4 +1,5 @@
 # ControleEstoque
+https://www.youtube.com/watch?v=nlHfCt0HuGY&list=PLsGCdfxkV9uqj9DwI6Y72JyvXeA-9mAjc&index=6
 
 ### Como rodar o projeto?
 Clone esse repositório.
